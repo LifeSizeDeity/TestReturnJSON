@@ -4,14 +4,14 @@
       "Produktname": "name",
       "Produktbeschreibung": "description",
       "Modellnummer": "model_number",
-      "Bechtle Artikelnummer": "article number",
-      "Hersteller des Produkts": "manufacturer",
-      "Preis / Kosten": "cost",
-      "Produkt Owner /PM": "owner",
-      "Status (Lifecycle)": "status",
-      "Produktgruppe Name": "name",
-      "Hauptproduktgruppe Name": "name",
-      "UNSPSC code": "code"
+      "BechtleArtikelnummer": "article_number",
+      "HerstellerDesProdukts": "manufacturer",
+      "PreisKosten": "cost",
+      "ProduktOwnerPM": "owner",
+      "Status": "status",
+      "ProduktgruppeName": "name",
+      "HauptproduktgruppeName": "name",
+      "UNSPSC_code": "code"
     }
   ]
 }
