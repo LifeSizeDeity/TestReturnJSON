@@ -3,8 +3,8 @@
     {
       "table": "tableName",
       "Produktname": "name",
-      "Produktbeschreibung": "description",
-      "Modellnummer": "model_number",
+      "Produktbeschreibung": "THIS IS THE FIRST TEST DESCRIPTION",
+      "Modellnummer": "666",
       "BechtleArtikelnummer": "article_number",
       "HerstellerDesProdukts": "manufacturer",
       "PreisKosten": "cost",
