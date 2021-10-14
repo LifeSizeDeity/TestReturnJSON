@@ -1,6 +1,7 @@
 {
   "Produkt": [
     {
+      "table": "tableName",
       "Produktname": "name",
       "Produktbeschreibung": "description",
       "Modellnummer": "model_number",
