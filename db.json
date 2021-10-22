@@ -25,6 +25,19 @@
          "ProduktgruppeName":"REST IMPORT",
          "HauptproduktgruppeName":"REST IMPORT",
          "UNSPSC_code":"REST IMPORT"
+      },
+      {
+         "Produktname":"Test JSON import",
+         "Produktbeschreibung":"Part 2",
+         "Modellnummer":667,
+         "BechtleArtikelnummer":"REST IMPORT",
+         "HerstellerDesProdukts":"REST IMPORT",
+         "PreisKosten":"REST IMPORT",
+         "ProduktOwnerPM":"REST IMPORT",
+         "Status":"REST IMPORT",
+         "ProduktgruppeName":"REST IMPORT",
+         "HauptproduktgruppeName":"REST IMPORT",
+         "UNSPSC_code":"REST IMPORT"
       }
    ]
 }
