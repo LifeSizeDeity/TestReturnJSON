@@ -12,6 +12,19 @@
          "ProduktgruppeName":"REST IMPORT",
          "HauptproduktgruppeName":"REST IMPORT",
          "UNSPSC_code":"REST IMPORT"
+      },
+      {
+         "Produktname":"Curved Monitor",
+         "Produktbeschreibung":"Part 2",
+         "Modellnummer":666,
+         "BechtleArtikelnummer":"REST IMPORT",
+         "HerstellerDesProdukts":"REST IMPORT",
+         "PreisKosten":"REST IMPORT",
+         "ProduktOwnerPM":"REST IMPORT",
+         "Status":"REST IMPORT",
+         "ProduktgruppeName":"REST IMPORT",
+         "HauptproduktgruppeName":"REST IMPORT",
+         "UNSPSC_code":"REST IMPORT"
       }
    ]
 }
