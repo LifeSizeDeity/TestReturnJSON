@@ -1,7 +1,6 @@
 {
   "Produkt": [
     {
-      "table": "tableName",
       "Produktname": "name",
       "Produktbeschreibung": "THIS IS THE FIRST TEST DESCRIPTION",
       "Modellnummer": "666",
