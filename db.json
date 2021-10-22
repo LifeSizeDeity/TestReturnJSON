@@ -1,16 +1,17 @@
 {
    "ProductItem":[
-      {"Produktname":"M705 Wireless Maus"},
-      {"Produktbeschreibung":"This is a test of the new rest import"},
-      {"Modellnummer":666},
-      {"BechtleArtikelnummer":"REST IMPORT"},
-      {"HerstellerDesProdukts":"REST IMPORT"},
-      {"PreisKosten":"REST IMPORT"},
-      {"ProduktOwnerPM":"REST IMPORT"},
-      {"Status":"REST IMPORT"},
-      {"ProduktgruppeName":"REST IMPORT"},
-      {"HauptproduktgruppeName":"REST IMPORT"},
-      {"UNSPSC_code":"REST IMPORT"}
-      ]
+      {
+         "Produktname":"M705 Wireless Maus",
+         "Produktbeschreibung":"This is a test of the new rest import",
+         "Modellnummer":666,
+         "BechtleArtikelnummer":"REST IMPORT",
+         "HerstellerDesProdukts":"REST IMPORT",
+         "PreisKosten":"REST IMPORT",
+         "ProduktOwnerPM":"REST IMPORT",
+         "Status":"REST IMPORT",
+         "ProduktgruppeName":"REST IMPORT",
+         "HauptproduktgruppeName":"REST IMPORT",
+         "UNSPSC_code":"REST IMPORT"
+      }
+   ]
 }
-
