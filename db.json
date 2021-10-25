@@ -10,8 +10,7 @@
          "ProduktOwnerPM":"REST IMPORT",
          "Status":"REST IMPORT",
          "ProduktgruppeName":"REST IMPORT",
-         "HauptproduktgruppeName":"REST IMPORT",
-         "UNSPSC_code":"REST IMPORT"
+         "HauptproduktgruppeName":"REST IMPORT"
       },
       {
          "Produktname":"Curved Monitor",
@@ -23,8 +22,7 @@
          "ProduktOwnerPM":"REST IMPORT",
          "Status":"REST IMPORT",
          "ProduktgruppeName":"REST IMPORT",
-         "HauptproduktgruppeName":"REST IMPORT",
-         "UNSPSC_code":"REST IMPORT"
+         "HauptproduktgruppeName":"REST IMPORT"
       },
       {
          "Produktname":"Test JSON import",
@@ -36,8 +34,7 @@
          "ProduktOwnerPM":"REST IMPORT",
          "Status":"REST IMPORT",
          "ProduktgruppeName":"REST IMPORT",
-         "HauptproduktgruppeName":"REST IMPORT",
-         "UNSPSC_code":"REST IMPORT"
+         "HauptproduktgruppeName":"REST IMPORT"
       }
    ]
 }
