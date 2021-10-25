@@ -2,39 +2,39 @@
    "ProductItem":[
       {
          "Produktname":" M705 Wireless Maus",
-         "Produktbeschreibung":"This is a test of the new rest import",
+         "Produktbeschreibung":"This is HTML",
          "Modellnummer":666,
-         "BechtleArtikelnummer":"REST IMPORT",
-         "HerstellerDesProdukts":"REST IMPORT",
-         "PreisKosten":"REST IMPORT",
-         "ProduktOwnerPM":"REST IMPORT",
-         "Status":"REST IMPORT",
-         "ProduktgruppeName":"REST IMPORT",
-         "HauptproduktgruppeName":"REST IMPORT"
+         "BechtleArtikelnummer":"Currently string, may need to be number",
+         "HerstellerDesProdukts":"Bechtle",
+         "PreisKosten":1.01,
+         "ProduktOwnerPM":"Michael Hammack",
+         "Status":"In Production",
+         "ProduktgruppeName":"Access",
+         "HauptproduktgruppeName":"Bundle"
       },
       {
          "Produktname":"Curved Monitor",
-         "Produktbeschreibung":"Part 2",
+         "Produktbeschreibung":"This is HTML",
          "Modellnummer":667,
-         "BechtleArtikelnummer":"REST IMPORT",
-         "HerstellerDesProdukts":"REST IMPORT",
-         "PreisKosten":"REST IMPORT",
-         "ProduktOwnerPM":"REST IMPORT",
-         "Status":"REST IMPORT",
-         "ProduktgruppeName":"REST IMPORT",
-         "HauptproduktgruppeName":"REST IMPORT"
+         "BechtleArtikelnummer":"Currently string, may need to be ref or number",
+         "HerstellerDesProdukts":"20TH CENTURY FOX",
+         "PreisKosten":1.02,
+         "ProduktOwnerPM":"Michael Hammack",
+         "Status":"Build",
+         "ProduktgruppeName":"Application",
+         "HauptproduktgruppeName":"Application"
       },
       {
          "Produktname":"Test JSON import",
-         "Produktbeschreibung":"Part 2",
+         "Produktbeschreibung":"This is HTML",
          "Modellnummer":667,
-         "BechtleArtikelnummer":"REST IMPORT",
-         "HerstellerDesProdukts":"REST IMPORT",
-         "PreisKosten":"REST IMPORT",
-         "ProduktOwnerPM":"REST IMPORT",
-         "Status":"REST IMPORT",
-         "ProduktgruppeName":"REST IMPORT",
-         "HauptproduktgruppeName":"REST IMPORT"
+         "BechtleArtikelnummer":"Currently string, may need to be ref or number",
+         "HerstellerDesProdukts":"ALPHAOBJECTS",
+         "PreisKosten":1.03,
+         "ProduktOwnerPM":"Michael Hammack",
+         "Status":"Sold",
+         "ProduktgruppeName":"Bundle",
+         "HauptproduktgruppeName":"Access"
       }
    ]
 }
