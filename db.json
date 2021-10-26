@@ -47,6 +47,18 @@
          "Status":"Sold",
          "ProduktgruppeName":"Bundle",
          "HauptproduktgruppeName":"Access"
+      },
+      {
+         "Produktname":"Test JSON import3",
+         "Produktbeschreibung":"This is HTML",
+         "Modellnummer":669,
+         "BechtleArtikelnummer":"Currently string, may need to be ref or number",
+         "HerstellerDesProdukts":"ALPHAOBJECTS",
+         "PreisKosten":421.69,
+         "ProduktOwnerPM":"Michael Hammack",
+         "Status":"Sold",
+         "ProduktgruppeName":"Bundle",
+         "HauptproduktgruppeName":"Access"
       }
    ]
 }
