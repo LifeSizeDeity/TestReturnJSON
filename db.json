@@ -53,9 +53,9 @@
          "Produktbeschreibung":"This is HTML",
          "Modellnummer":669,
          "BechtleArtikelnummer":"Currently string, may need to be ref or number",
-         "HerstellerDesProdukts":"ALPHAOBJECTS",
+         "HerstellerDesProdukts":"2X",
          "PreisKosten":421.69,
-         "ProduktOwnerPM":"Michael Hammack",
+         "ProduktOwnerPM":"Lars Rottman",
          "Status":"Sold",
          "ProduktgruppeName":"Bundle",
          "HauptproduktgruppeName":"Access"
