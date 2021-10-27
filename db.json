@@ -7,7 +7,7 @@
          "BechtleArtikelnummer":"Currently string, may need to be number",
          "HerstellerDesProdukts":"Bechtle",
          "PreisKosten":1.01,
-         "ProduktOwnerPM":"Michael Hammack",
+         "ProduktOwnerPM":"Hulk Hogan",
          "Status":"In Production",
          "ProduktgruppeName":"Access",
          "HauptproduktgruppeName":"Bundle"
@@ -32,30 +32,6 @@
          "HerstellerDesProdukts":"ALPHAOBJECTS",
          "PreisKosten":1.03,
          "ProduktOwnerPM":"Michael Hammack",
-         "Status":"Sold",
-         "ProduktgruppeName":"Bundle",
-         "HauptproduktgruppeName":"Access"
-      },
-      {
-         "Produktname":"Test JSON import2",
-         "Produktbeschreibung":"This is HTML",
-         "Modellnummer":668,
-         "BechtleArtikelnummer":"Currently string, may need to be ref or number",
-         "HerstellerDesProdukts":"ALPHAOBJECTS",
-         "PreisKosten":1.69,
-         "ProduktOwnerPM":"Michael Hammack",
-         "Status":"Sold",
-         "ProduktgruppeName":"Bundle",
-         "HauptproduktgruppeName":"Access"
-      },
-      {
-         "Produktname":"Test JSON import3",
-         "Produktbeschreibung":"This is HTML",
-         "Modellnummer":669,
-         "BechtleArtikelnummer":"Currently string, may need to be ref or number",
-         "HerstellerDesProdukts":"2X",
-         "PreisKosten":123.23,
-         "ProduktOwnerPM":"Lars Rottmann",
          "Status":"Sold",
          "ProduktgruppeName":"Bundle",
          "HauptproduktgruppeName":"Access"
