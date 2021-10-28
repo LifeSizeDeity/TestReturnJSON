@@ -9,32 +9,8 @@
          "PreisKosten":1.01,
          "ProduktOwnerPM":"Lars Rottmann",
          "Status":"In Production",
-         "ProduktgruppeName":"Access",
-         "HauptproduktgruppeName":"Application"
-      },
-      {
-         "Produktname":"Curved Monitor",
-         "Produktbeschreibung":"This is HTML",
-         "Modellnummer":667,
-         "BechtleArtikelnummer":"Currently string, may need to be ref or number",
-         "HerstellerDesProdukts":"20TH CENTURY FOX",
-         "PreisKosten":1.02,
-         "ProduktOwnerPM":"Michael Hammack",
-         "Status":"Build",
          "ProduktgruppeName":"Application",
          "HauptproduktgruppeName":"Application"
-      },
-      {
-         "Produktname":"Test JSON import",
-         "Produktbeschreibung":"This is HTML",
-         "Modellnummer":667,
-         "BechtleArtikelnummer":"Currently string, may need to be ref or number",
-         "HerstellerDesProdukts":"ALPHAOBJECTS",
-         "PreisKosten":1.03,
-         "ProduktOwnerPM":"Michael Hammack",
-         "Status":"Sold",
-         "ProduktgruppeName":"Bundle",
-         "HauptproduktgruppeName":"Access"
       }
    ]
 }
