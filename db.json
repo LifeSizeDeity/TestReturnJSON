@@ -1,16 +1,21 @@
 {
-   "ProductItem":[
-      {
-         "Produktname":" M705 Wireless Maus",
-         "Produktbeschreibung":"This is HTML",
-         "Modellnummer":666,
-         "BechtleArtikelnummer":"Currently string, may need to be number",
-         "HerstellerDesProdukts":"SKYNET",
-         "PreisKosten":1.01,
-         "ProduktOwnerPM":"Lars Rottmann",
-         "Status":"In Production",
-         "ProduktgruppeName":"Application",
-         "HauptproduktgruppeName":""
-      }
-   ]
+	"ProductItem": [{
+		"Produktname": " M705 Wireless Maus",
+		"Produktbeschreibung": "This is HTML",
+		"Modellnummer": 666,
+		"BechtleArtikelnummer": "Currently string, may need to be number",
+		"HerstellerDesProdukts": "SKYNET",
+		"PreisKosten": 1.01,
+		"ProduktOwnerPM": "Lars Rottmann",
+		"Status": "In Production",
+		"ProductCategories": [{
+				"ProduktgruppeName": "Application",
+				"HauptproduktgruppeName": "Application"
+			},
+			{
+				"ProduktgruppeName": "Bundle",
+				"HauptproduktgruppeName": "Bundle"
+			}
+		]
+	}]
 }
