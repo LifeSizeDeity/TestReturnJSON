@@ -1,21 +1,19 @@
 {
-	"ProductItem": [{
-		"Produktname": " M705 Wireless Maus",
-		"Produktbeschreibung": "This is HTML",
-		"Modellnummer": 666,
-		"BechtleArtikelnummer": "Currently string, may need to be number",
-		"HerstellerDesProdukts": "GOOGLE",
-		"PreisKosten": 1.01,
-		"ProduktOwnerPM": "Lars Rottmann",
-		"Status": "In Production",
-		"ProductCategories": [{
-				"ProduktgruppeName": "Application",
-				"HauptproduktgruppeName": "Application"
-			},
-			{
-				"ProduktgruppeName": "Bundle",
-				"HauptproduktgruppeName": "Bundle"
-			}
-		]
-	}]
+	"ProductItem": [
+		{
+			"product_name": "Apple MacBook Air 13 M1 8GB/1TB grau",
+			"product_description": "Farbe: Space Grau#CTO Variante der Grundkonfiguration MGN73x/A:#Apple M1 Chip 8-Core CPU 8-Core GPU 16-Core NE#8 GB gemeinsamer Arbeitsspeicher#1 TB SSD Speicher#Beleuchtetes Magic Keyboard",
+			"country_id": "DE",
+			"manufacturer_product_id": "Z125-0012-V",
+			"product_id": "4506845-01",
+			"manufacturer_id": "APL",
+			"purchase_price_accounting": 0.0,
+			"product_contact_name": "Lucas Kawik",
+			"product_contact_email": "lucas.kawik@bechtle.com",
+			"product_contact_employeeid": "DI04604410",
+			"product_category_id": "028001007",
+			"product_category_name": "Mobile Computing",
+			"main_product_group_name": "Notebooks / Tablets",
+			"product_group_name": "Notebooks"
+		}]
 }
